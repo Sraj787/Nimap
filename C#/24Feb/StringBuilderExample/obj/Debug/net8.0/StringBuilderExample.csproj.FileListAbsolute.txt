@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Day2\StringBuilderExample\bin\Debug\net8.0\StringBuilderExample.exe
+C:\Users\Nimap\source\repos\Day2\StringBuilderExample\bin\Debug\net8.0\StringBuilderExample.deps.json
+C:\Users\Nimap\source\repos\Day2\StringBuilderExample\bin\Debug\net8.0\StringBuilderExample.runtimeconfig.json
+C:\Users\Nimap\source\repos\Day2\StringBuilderExample\bin\Debug\net8.0\StringBuilderExample.dll
+C:\Users\Nimap\source\repos\Day2\StringBuilderExample\bin\Debug\net8.0\StringBuilderExample.pdb
+C:\Users\Nimap\source\repos\Day2\StringBuilderExample\obj\Debug\net8.0\StringBuilderExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Day2\StringBuilderExample\obj\Debug\net8.0\StringBuilderExample.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Day2\StringBuilderExample\obj\Debug\net8.0\StringBuilderExample.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Day2\StringBuilderExample\obj\Debug\net8.0\StringBuilderExample.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Day2\StringBuilderExample\obj\Debug\net8.0\StringBuilderExample.dll
+C:\Users\Nimap\source\repos\Day2\StringBuilderExample\obj\Debug\net8.0\refint\StringBuilderExample.dll
+C:\Users\Nimap\source\repos\Day2\StringBuilderExample\obj\Debug\net8.0\StringBuilderExample.pdb
+C:\Users\Nimap\source\repos\Day2\StringBuilderExample\obj\Debug\net8.0\StringBuilderExample.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Day2\StringBuilderExample\obj\Debug\net8.0\ref\StringBuilderExample.dll

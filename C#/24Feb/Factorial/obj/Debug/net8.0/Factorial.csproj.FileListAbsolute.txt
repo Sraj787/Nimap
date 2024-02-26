@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Day2\Factorial\bin\Debug\net8.0\Factorial.exe
+C:\Users\Nimap\source\repos\Day2\Factorial\bin\Debug\net8.0\Factorial.deps.json
+C:\Users\Nimap\source\repos\Day2\Factorial\bin\Debug\net8.0\Factorial.runtimeconfig.json
+C:\Users\Nimap\source\repos\Day2\Factorial\bin\Debug\net8.0\Factorial.dll
+C:\Users\Nimap\source\repos\Day2\Factorial\bin\Debug\net8.0\Factorial.pdb
+C:\Users\Nimap\source\repos\Day2\Factorial\obj\Debug\net8.0\Factorial.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Day2\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Day2\Factorial\obj\Debug\net8.0\Factorial.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Day2\Factorial\obj\Debug\net8.0\Factorial.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Day2\Factorial\obj\Debug\net8.0\Factorial.dll
+C:\Users\Nimap\source\repos\Day2\Factorial\obj\Debug\net8.0\refint\Factorial.dll
+C:\Users\Nimap\source\repos\Day2\Factorial\obj\Debug\net8.0\Factorial.pdb
+C:\Users\Nimap\source\repos\Day2\Factorial\obj\Debug\net8.0\Factorial.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Day2\Factorial\obj\Debug\net8.0\ref\Factorial.dll
