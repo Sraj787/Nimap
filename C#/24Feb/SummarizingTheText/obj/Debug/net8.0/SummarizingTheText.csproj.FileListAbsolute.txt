@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Day2\SummarizingTheText\bin\Debug\net8.0\SummarizingTheText.exe
+C:\Users\Nimap\source\repos\Day2\SummarizingTheText\bin\Debug\net8.0\SummarizingTheText.deps.json
+C:\Users\Nimap\source\repos\Day2\SummarizingTheText\bin\Debug\net8.0\SummarizingTheText.runtimeconfig.json
+C:\Users\Nimap\source\repos\Day2\SummarizingTheText\bin\Debug\net8.0\SummarizingTheText.dll
+C:\Users\Nimap\source\repos\Day2\SummarizingTheText\bin\Debug\net8.0\SummarizingTheText.pdb
+C:\Users\Nimap\source\repos\Day2\SummarizingTheText\obj\Debug\net8.0\SummarizingTheText.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Day2\SummarizingTheText\obj\Debug\net8.0\SummarizingTheText.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Day2\SummarizingTheText\obj\Debug\net8.0\SummarizingTheText.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Day2\SummarizingTheText\obj\Debug\net8.0\SummarizingTheText.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Day2\SummarizingTheText\obj\Debug\net8.0\SummarizingTheText.dll
+C:\Users\Nimap\source\repos\Day2\SummarizingTheText\obj\Debug\net8.0\refint\SummarizingTheText.dll
+C:\Users\Nimap\source\repos\Day2\SummarizingTheText\obj\Debug\net8.0\SummarizingTheText.pdb
+C:\Users\Nimap\source\repos\Day2\SummarizingTheText\obj\Debug\net8.0\SummarizingTheText.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Day2\SummarizingTheText\obj\Debug\net8.0\ref\SummarizingTheText.dll

@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Day2\CalculateSum\bin\Debug\net8.0\CalculateSum.exe
+C:\Users\Nimap\source\repos\Day2\CalculateSum\bin\Debug\net8.0\CalculateSum.deps.json
+C:\Users\Nimap\source\repos\Day2\CalculateSum\bin\Debug\net8.0\CalculateSum.runtimeconfig.json
+C:\Users\Nimap\source\repos\Day2\CalculateSum\bin\Debug\net8.0\CalculateSum.dll
+C:\Users\Nimap\source\repos\Day2\CalculateSum\bin\Debug\net8.0\CalculateSum.pdb
+C:\Users\Nimap\source\repos\Day2\CalculateSum\obj\Debug\net8.0\CalculateSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Day2\CalculateSum\obj\Debug\net8.0\CalculateSum.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Day2\CalculateSum\obj\Debug\net8.0\CalculateSum.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Day2\CalculateSum\obj\Debug\net8.0\CalculateSum.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Day2\CalculateSum\obj\Debug\net8.0\CalculateSum.dll
+C:\Users\Nimap\source\repos\Day2\CalculateSum\obj\Debug\net8.0\refint\CalculateSum.dll
+C:\Users\Nimap\source\repos\Day2\CalculateSum\obj\Debug\net8.0\CalculateSum.pdb
+C:\Users\Nimap\source\repos\Day2\CalculateSum\obj\Debug\net8.0\CalculateSum.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Day2\CalculateSum\obj\Debug\net8.0\ref\CalculateSum.dll

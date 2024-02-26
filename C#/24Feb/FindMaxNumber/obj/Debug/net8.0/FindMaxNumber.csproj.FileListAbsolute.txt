@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Day2\FindMaxNumber\bin\Debug\net8.0\FindMaxNumber.exe
+C:\Users\Nimap\source\repos\Day2\FindMaxNumber\bin\Debug\net8.0\FindMaxNumber.deps.json
+C:\Users\Nimap\source\repos\Day2\FindMaxNumber\bin\Debug\net8.0\FindMaxNumber.runtimeconfig.json
+C:\Users\Nimap\source\repos\Day2\FindMaxNumber\bin\Debug\net8.0\FindMaxNumber.dll
+C:\Users\Nimap\source\repos\Day2\FindMaxNumber\bin\Debug\net8.0\FindMaxNumber.pdb
+C:\Users\Nimap\source\repos\Day2\FindMaxNumber\obj\Debug\net8.0\FindMaxNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Day2\FindMaxNumber\obj\Debug\net8.0\FindMaxNumber.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Day2\FindMaxNumber\obj\Debug\net8.0\FindMaxNumber.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Day2\FindMaxNumber\obj\Debug\net8.0\FindMaxNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Day2\FindMaxNumber\obj\Debug\net8.0\FindMaxNumber.dll
+C:\Users\Nimap\source\repos\Day2\FindMaxNumber\obj\Debug\net8.0\refint\FindMaxNumber.dll
+C:\Users\Nimap\source\repos\Day2\FindMaxNumber\obj\Debug\net8.0\FindMaxNumber.pdb
+C:\Users\Nimap\source\repos\Day2\FindMaxNumber\obj\Debug\net8.0\FindMaxNumber.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Day2\FindMaxNumber\obj\Debug\net8.0\ref\FindMaxNumber.dll

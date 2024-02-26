@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Day2\AccessModifierExample\bin\Debug\net8.0\AccessModifierExample.exe
+C:\Users\Nimap\source\repos\Day2\AccessModifierExample\bin\Debug\net8.0\AccessModifierExample.deps.json
+C:\Users\Nimap\source\repos\Day2\AccessModifierExample\bin\Debug\net8.0\AccessModifierExample.runtimeconfig.json
+C:\Users\Nimap\source\repos\Day2\AccessModifierExample\bin\Debug\net8.0\AccessModifierExample.dll
+C:\Users\Nimap\source\repos\Day2\AccessModifierExample\bin\Debug\net8.0\AccessModifierExample.pdb
+C:\Users\Nimap\source\repos\Day2\AccessModifierExample\obj\Debug\net8.0\AccessModifierExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Day2\AccessModifierExample\obj\Debug\net8.0\AccessModifierExample.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Day2\AccessModifierExample\obj\Debug\net8.0\AccessModifierExample.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Day2\AccessModifierExample\obj\Debug\net8.0\AccessModifierExample.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Day2\AccessModifierExample\obj\Debug\net8.0\AccessModifierExample.dll
+C:\Users\Nimap\source\repos\Day2\AccessModifierExample\obj\Debug\net8.0\refint\AccessModifierExample.dll
+C:\Users\Nimap\source\repos\Day2\AccessModifierExample\obj\Debug\net8.0\AccessModifierExample.pdb
+C:\Users\Nimap\source\repos\Day2\AccessModifierExample\obj\Debug\net8.0\AccessModifierExample.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Day2\AccessModifierExample\obj\Debug\net8.0\ref\AccessModifierExample.dll
