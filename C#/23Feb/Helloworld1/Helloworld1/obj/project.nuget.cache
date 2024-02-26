@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "mAtHMZPo86Cx+bkdBlMoXIsmGCfogBsxnmCWZawUx6S3uACpJckRhPYtxMxt+RNaEK7BkVNUpBKrrdDzeM6/0g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Nimap\\source\\repos\\Helloworld1\\Helloworld1\\Helloworld1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Nimap\\.nuget\\packages\\microsoft.dotnet.ilcompiler\\8.0.2\\microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512",
+    "C:\\Users\\Nimap\\.nuget\\packages\\microsoft.net.illink.tasks\\8.0.2\\microsoft.net.illink.tasks.8.0.2.nupkg.sha512",
+    "C:\\Users\\Nimap\\.nuget\\packages\\runtime.win-x64.microsoft.dotnet.ilcompiler\\8.0.2\\runtime.win-x64.microsoft.dotnet.ilcompiler.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

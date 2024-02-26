@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\whileLoopExample\bin\Debug\net8.0\whileLoopExample.exe
+C:\Users\Nimap\source\repos\whileLoopExample\bin\Debug\net8.0\whileLoopExample.deps.json
+C:\Users\Nimap\source\repos\whileLoopExample\bin\Debug\net8.0\whileLoopExample.runtimeconfig.json
+C:\Users\Nimap\source\repos\whileLoopExample\bin\Debug\net8.0\whileLoopExample.dll
+C:\Users\Nimap\source\repos\whileLoopExample\bin\Debug\net8.0\whileLoopExample.pdb
+C:\Users\Nimap\source\repos\whileLoopExample\obj\Debug\net8.0\whileLoopExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\whileLoopExample\obj\Debug\net8.0\whileLoopExample.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\whileLoopExample\obj\Debug\net8.0\whileLoopExample.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\whileLoopExample\obj\Debug\net8.0\whileLoopExample.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\whileLoopExample\obj\Debug\net8.0\whileLoopExample.dll
+C:\Users\Nimap\source\repos\whileLoopExample\obj\Debug\net8.0\refint\whileLoopExample.dll
+C:\Users\Nimap\source\repos\whileLoopExample\obj\Debug\net8.0\whileLoopExample.pdb
+C:\Users\Nimap\source\repos\whileLoopExample\obj\Debug\net8.0\whileLoopExample.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\whileLoopExample\obj\Debug\net8.0\ref\whileLoopExample.dll

@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Helloworld1\Helloworld1\bin\Debug\net8.0\Helloworld1.exe
+C:\Users\Nimap\source\repos\Helloworld1\Helloworld1\bin\Debug\net8.0\Helloworld1.deps.json
+C:\Users\Nimap\source\repos\Helloworld1\Helloworld1\bin\Debug\net8.0\Helloworld1.runtimeconfig.json
+C:\Users\Nimap\source\repos\Helloworld1\Helloworld1\bin\Debug\net8.0\Helloworld1.dll
+C:\Users\Nimap\source\repos\Helloworld1\Helloworld1\bin\Debug\net8.0\Helloworld1.pdb
+C:\Users\Nimap\source\repos\Helloworld1\Helloworld1\obj\Debug\net8.0\Helloworld1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Helloworld1\Helloworld1\obj\Debug\net8.0\Helloworld1.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Helloworld1\Helloworld1\obj\Debug\net8.0\Helloworld1.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Helloworld1\Helloworld1\obj\Debug\net8.0\Helloworld1.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Helloworld1\Helloworld1\obj\Debug\net8.0\Helloworld1.dll
+C:\Users\Nimap\source\repos\Helloworld1\Helloworld1\obj\Debug\net8.0\refint\Helloworld1.dll
+C:\Users\Nimap\source\repos\Helloworld1\Helloworld1\obj\Debug\net8.0\Helloworld1.pdb
+C:\Users\Nimap\source\repos\Helloworld1\Helloworld1\obj\Debug\net8.0\Helloworld1.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Helloworld1\Helloworld1\obj\Debug\net8.0\ref\Helloworld1.dll

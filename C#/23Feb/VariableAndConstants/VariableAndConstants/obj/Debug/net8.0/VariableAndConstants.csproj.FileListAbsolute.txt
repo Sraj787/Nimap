@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\VariableAndConstants\VariableAndConstants\obj\Debug\net8.0\VariableAndConstants.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\VariableAndConstants\VariableAndConstants\obj\Debug\net8.0\VariableAndConstants.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\VariableAndConstants\VariableAndConstants\obj\Debug\net8.0\VariableAndConstants.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\VariableAndConstants\VariableAndConstants\obj\Debug\net8.0\VariableAndConstants.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\VariableAndConstants\VariableAndConstants\bin\Debug\net8.0\VariableAndConstants.exe
+C:\Users\Nimap\source\repos\VariableAndConstants\VariableAndConstants\bin\Debug\net8.0\VariableAndConstants.deps.json
+C:\Users\Nimap\source\repos\VariableAndConstants\VariableAndConstants\bin\Debug\net8.0\VariableAndConstants.runtimeconfig.json
+C:\Users\Nimap\source\repos\VariableAndConstants\VariableAndConstants\bin\Debug\net8.0\VariableAndConstants.dll
+C:\Users\Nimap\source\repos\VariableAndConstants\VariableAndConstants\bin\Debug\net8.0\VariableAndConstants.pdb
+C:\Users\Nimap\source\repos\VariableAndConstants\VariableAndConstants\obj\Debug\net8.0\VariableAndConstants.dll
+C:\Users\Nimap\source\repos\VariableAndConstants\VariableAndConstants\obj\Debug\net8.0\refint\VariableAndConstants.dll
+C:\Users\Nimap\source\repos\VariableAndConstants\VariableAndConstants\obj\Debug\net8.0\VariableAndConstants.pdb
+C:\Users\Nimap\source\repos\VariableAndConstants\VariableAndConstants\obj\Debug\net8.0\VariableAndConstants.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\VariableAndConstants\VariableAndConstants\obj\Debug\net8.0\ref\VariableAndConstants.dll

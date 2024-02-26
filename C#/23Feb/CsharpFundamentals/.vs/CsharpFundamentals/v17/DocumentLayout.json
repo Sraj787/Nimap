@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nimap\\source\\repos\\CsharpFundamentals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9177955-D4D4-40E5-96F4-6984DC2E3813}|CsharpFundamentals.csproj|c:\\users\\nimap\\source\\repos\\csharpfundamentals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9177955-D4D4-40E5-96F4-6984DC2E3813}|CsharpFundamentals.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9177955-D4D4-40E5-96F4-6984DC2E3813}|CsharpFundamentals.csproj|c:\\users\\nimap\\source\\repos\\csharpfundamentals\\maths\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9177955-D4D4-40E5-96F4-6984DC2E3813}|CsharpFundamentals.csproj|solutionrelative:maths\\calculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9177955-D4D4-40E5-96F4-6984DC2E3813}|CsharpFundamentals.csproj|c:\\users\\nimap\\source\\repos\\csharpfundamentals\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9177955-D4D4-40E5-96F4-6984DC2E3813}|CsharpFundamentals.csproj|solutionrelative:person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\CsharpFundamentals\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\CsharpFundamentals\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAIwAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T09:06:59.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Calculator.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\CsharpFundamentals\\maths\\Calculator.cs",
+              "RelativeDocumentMoniker": "maths\\Calculator.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\CsharpFundamentals\\maths\\Calculator.cs",
+              "RelativeToolTip": "maths\\Calculator.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T09:18:23.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\Nimap\\source\\repos\\CsharpFundamentals\\Person.cs",
+              "RelativeDocumentMoniker": "Person.cs",
+              "ToolTip": "C:\\Users\\Nimap\\source\\repos\\CsharpFundamentals\\Person.cs",
+              "RelativeToolTip": "Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-23T09:17:27.164Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
