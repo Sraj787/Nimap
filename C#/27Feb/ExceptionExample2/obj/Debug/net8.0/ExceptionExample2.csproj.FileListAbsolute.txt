@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Day4\ExceptionExample2\obj\Debug\net8.0\ExceptionExample2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Day4\ExceptionExample2\obj\Debug\net8.0\ExceptionExample2.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Day4\ExceptionExample2\obj\Debug\net8.0\ExceptionExample2.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Day4\ExceptionExample2\obj\Debug\net8.0\ExceptionExample2.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Day4\ExceptionExample2\bin\Debug\net8.0\ExceptionExample2.exe
+C:\Users\Nimap\source\repos\Day4\ExceptionExample2\bin\Debug\net8.0\ExceptionExample2.deps.json
+C:\Users\Nimap\source\repos\Day4\ExceptionExample2\bin\Debug\net8.0\ExceptionExample2.runtimeconfig.json
+C:\Users\Nimap\source\repos\Day4\ExceptionExample2\bin\Debug\net8.0\ExceptionExample2.dll
+C:\Users\Nimap\source\repos\Day4\ExceptionExample2\bin\Debug\net8.0\ExceptionExample2.pdb
+C:\Users\Nimap\source\repos\Day4\ExceptionExample2\obj\Debug\net8.0\ExceptionExample2.dll
+C:\Users\Nimap\source\repos\Day4\ExceptionExample2\obj\Debug\net8.0\refint\ExceptionExample2.dll
+C:\Users\Nimap\source\repos\Day4\ExceptionExample2\obj\Debug\net8.0\ExceptionExample2.pdb
+C:\Users\Nimap\source\repos\Day4\ExceptionExample2\obj\Debug\net8.0\ExceptionExample2.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Day4\ExceptionExample2\obj\Debug\net8.0\ref\ExceptionExample2.dll
