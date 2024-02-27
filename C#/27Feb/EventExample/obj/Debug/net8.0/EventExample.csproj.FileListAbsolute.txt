@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Day4\EventExample\bin\Debug\net8.0\EventExample.exe
+C:\Users\Nimap\source\repos\Day4\EventExample\bin\Debug\net8.0\EventExample.deps.json
+C:\Users\Nimap\source\repos\Day4\EventExample\bin\Debug\net8.0\EventExample.runtimeconfig.json
+C:\Users\Nimap\source\repos\Day4\EventExample\bin\Debug\net8.0\EventExample.dll
+C:\Users\Nimap\source\repos\Day4\EventExample\bin\Debug\net8.0\EventExample.pdb
+C:\Users\Nimap\source\repos\Day4\EventExample\obj\Debug\net8.0\EventExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Day4\EventExample\obj\Debug\net8.0\EventExample.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Day4\EventExample\obj\Debug\net8.0\EventExample.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Day4\EventExample\obj\Debug\net8.0\EventExample.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Day4\EventExample\obj\Debug\net8.0\EventExample.dll
+C:\Users\Nimap\source\repos\Day4\EventExample\obj\Debug\net8.0\refint\EventExample.dll
+C:\Users\Nimap\source\repos\Day4\EventExample\obj\Debug\net8.0\EventExample.pdb
+C:\Users\Nimap\source\repos\Day4\EventExample\obj\Debug\net8.0\EventExample.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Day4\EventExample\obj\Debug\net8.0\ref\EventExample.dll

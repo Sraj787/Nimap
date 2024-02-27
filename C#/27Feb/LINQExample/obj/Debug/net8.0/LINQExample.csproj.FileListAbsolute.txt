@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Day4\LINQExample\bin\Debug\net8.0\LINQExample.exe
+C:\Users\Nimap\source\repos\Day4\LINQExample\bin\Debug\net8.0\LINQExample.deps.json
+C:\Users\Nimap\source\repos\Day4\LINQExample\bin\Debug\net8.0\LINQExample.runtimeconfig.json
+C:\Users\Nimap\source\repos\Day4\LINQExample\bin\Debug\net8.0\LINQExample.dll
+C:\Users\Nimap\source\repos\Day4\LINQExample\bin\Debug\net8.0\LINQExample.pdb
+C:\Users\Nimap\source\repos\Day4\LINQExample\obj\Debug\net8.0\LINQExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Day4\LINQExample\obj\Debug\net8.0\LINQExample.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Day4\LINQExample\obj\Debug\net8.0\LINQExample.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Day4\LINQExample\obj\Debug\net8.0\LINQExample.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Day4\LINQExample\obj\Debug\net8.0\LINQExample.dll
+C:\Users\Nimap\source\repos\Day4\LINQExample\obj\Debug\net8.0\refint\LINQExample.dll
+C:\Users\Nimap\source\repos\Day4\LINQExample\obj\Debug\net8.0\LINQExample.pdb
+C:\Users\Nimap\source\repos\Day4\LINQExample\obj\Debug\net8.0\LINQExample.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Day4\LINQExample\obj\Debug\net8.0\ref\LINQExample.dll
