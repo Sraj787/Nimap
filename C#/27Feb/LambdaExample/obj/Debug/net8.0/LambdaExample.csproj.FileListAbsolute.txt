@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Day4\LambdaExample\bin\Debug\net8.0\LambdaExample.exe
+C:\Users\Nimap\source\repos\Day4\LambdaExample\bin\Debug\net8.0\LambdaExample.deps.json
+C:\Users\Nimap\source\repos\Day4\LambdaExample\bin\Debug\net8.0\LambdaExample.runtimeconfig.json
+C:\Users\Nimap\source\repos\Day4\LambdaExample\bin\Debug\net8.0\LambdaExample.dll
+C:\Users\Nimap\source\repos\Day4\LambdaExample\bin\Debug\net8.0\LambdaExample.pdb
+C:\Users\Nimap\source\repos\Day4\LambdaExample\obj\Debug\net8.0\LambdaExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Day4\LambdaExample\obj\Debug\net8.0\LambdaExample.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Day4\LambdaExample\obj\Debug\net8.0\LambdaExample.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Day4\LambdaExample\obj\Debug\net8.0\LambdaExample.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Day4\LambdaExample\obj\Debug\net8.0\LambdaExample.dll
+C:\Users\Nimap\source\repos\Day4\LambdaExample\obj\Debug\net8.0\refint\LambdaExample.dll
+C:\Users\Nimap\source\repos\Day4\LambdaExample\obj\Debug\net8.0\LambdaExample.pdb
+C:\Users\Nimap\source\repos\Day4\LambdaExample\obj\Debug\net8.0\LambdaExample.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Day4\LambdaExample\obj\Debug\net8.0\ref\LambdaExample.dll

@@ -1,0 +1,4 @@
+C:\Users\Nimap\source\repos\Day4\InterfacePolymorphismExample\obj\Debug\net8.0\InterfacePolymorphismExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Day4\InterfacePolymorphismExample\obj\Debug\net8.0\InterfacePolymorphismExample.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Day4\InterfacePolymorphismExample\obj\Debug\net8.0\InterfacePolymorphismExample.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Day4\InterfacePolymorphismExample\obj\Debug\net8.0\InterfacePolymorphismExample.csproj.CoreCompileInputs.cache
