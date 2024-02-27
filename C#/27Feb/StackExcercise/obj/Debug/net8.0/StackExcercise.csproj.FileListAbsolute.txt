@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Day4\StackExcercise\bin\Debug\net8.0\StackExcercise.exe
+C:\Users\Nimap\source\repos\Day4\StackExcercise\bin\Debug\net8.0\StackExcercise.deps.json
+C:\Users\Nimap\source\repos\Day4\StackExcercise\bin\Debug\net8.0\StackExcercise.runtimeconfig.json
+C:\Users\Nimap\source\repos\Day4\StackExcercise\bin\Debug\net8.0\StackExcercise.dll
+C:\Users\Nimap\source\repos\Day4\StackExcercise\bin\Debug\net8.0\StackExcercise.pdb
+C:\Users\Nimap\source\repos\Day4\StackExcercise\obj\Debug\net8.0\StackExcercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Day4\StackExcercise\obj\Debug\net8.0\StackExcercise.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Day4\StackExcercise\obj\Debug\net8.0\StackExcercise.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Day4\StackExcercise\obj\Debug\net8.0\StackExcercise.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Day4\StackExcercise\obj\Debug\net8.0\StackExcercise.dll
+C:\Users\Nimap\source\repos\Day4\StackExcercise\obj\Debug\net8.0\refint\StackExcercise.dll
+C:\Users\Nimap\source\repos\Day4\StackExcercise\obj\Debug\net8.0\StackExcercise.pdb
+C:\Users\Nimap\source\repos\Day4\StackExcercise\obj\Debug\net8.0\StackExcercise.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Day4\StackExcercise\obj\Debug\net8.0\ref\StackExcercise.dll
