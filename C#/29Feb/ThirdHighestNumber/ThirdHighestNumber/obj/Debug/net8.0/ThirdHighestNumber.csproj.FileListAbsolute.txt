@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Project\ThirdHighestNumber\ThirdHighestNumber\bin\Debug\net8.0\ThirdHighestNumber.exe
+C:\Users\Nimap\source\repos\Project\ThirdHighestNumber\ThirdHighestNumber\bin\Debug\net8.0\ThirdHighestNumber.deps.json
+C:\Users\Nimap\source\repos\Project\ThirdHighestNumber\ThirdHighestNumber\bin\Debug\net8.0\ThirdHighestNumber.runtimeconfig.json
+C:\Users\Nimap\source\repos\Project\ThirdHighestNumber\ThirdHighestNumber\bin\Debug\net8.0\ThirdHighestNumber.dll
+C:\Users\Nimap\source\repos\Project\ThirdHighestNumber\ThirdHighestNumber\bin\Debug\net8.0\ThirdHighestNumber.pdb
+C:\Users\Nimap\source\repos\Project\ThirdHighestNumber\ThirdHighestNumber\obj\Debug\net8.0\ThirdHighestNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Project\ThirdHighestNumber\ThirdHighestNumber\obj\Debug\net8.0\ThirdHighestNumber.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Project\ThirdHighestNumber\ThirdHighestNumber\obj\Debug\net8.0\ThirdHighestNumber.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Project\ThirdHighestNumber\ThirdHighestNumber\obj\Debug\net8.0\ThirdHighestNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Project\ThirdHighestNumber\ThirdHighestNumber\obj\Debug\net8.0\ThirdHighestNumber.dll
+C:\Users\Nimap\source\repos\Project\ThirdHighestNumber\ThirdHighestNumber\obj\Debug\net8.0\refint\ThirdHighestNumber.dll
+C:\Users\Nimap\source\repos\Project\ThirdHighestNumber\ThirdHighestNumber\obj\Debug\net8.0\ThirdHighestNumber.pdb
+C:\Users\Nimap\source\repos\Project\ThirdHighestNumber\ThirdHighestNumber\obj\Debug\net8.0\ThirdHighestNumber.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Project\ThirdHighestNumber\ThirdHighestNumber\obj\Debug\net8.0\ref\ThirdHighestNumber.dll

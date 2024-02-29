@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Project\ReverseStringOrNumber\ReverseStringOrNumber\bin\Debug\net8.0\ReverseStringOrNumber.exe
+C:\Users\Nimap\source\repos\Project\ReverseStringOrNumber\ReverseStringOrNumber\bin\Debug\net8.0\ReverseStringOrNumber.deps.json
+C:\Users\Nimap\source\repos\Project\ReverseStringOrNumber\ReverseStringOrNumber\bin\Debug\net8.0\ReverseStringOrNumber.runtimeconfig.json
+C:\Users\Nimap\source\repos\Project\ReverseStringOrNumber\ReverseStringOrNumber\bin\Debug\net8.0\ReverseStringOrNumber.dll
+C:\Users\Nimap\source\repos\Project\ReverseStringOrNumber\ReverseStringOrNumber\bin\Debug\net8.0\ReverseStringOrNumber.pdb
+C:\Users\Nimap\source\repos\Project\ReverseStringOrNumber\ReverseStringOrNumber\obj\Debug\net8.0\ReverseStringOrNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Project\ReverseStringOrNumber\ReverseStringOrNumber\obj\Debug\net8.0\ReverseStringOrNumber.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Project\ReverseStringOrNumber\ReverseStringOrNumber\obj\Debug\net8.0\ReverseStringOrNumber.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Project\ReverseStringOrNumber\ReverseStringOrNumber\obj\Debug\net8.0\ReverseStringOrNumber.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Project\ReverseStringOrNumber\ReverseStringOrNumber\obj\Debug\net8.0\ReverseStringOrNumber.dll
+C:\Users\Nimap\source\repos\Project\ReverseStringOrNumber\ReverseStringOrNumber\obj\Debug\net8.0\refint\ReverseStringOrNumber.dll
+C:\Users\Nimap\source\repos\Project\ReverseStringOrNumber\ReverseStringOrNumber\obj\Debug\net8.0\ReverseStringOrNumber.pdb
+C:\Users\Nimap\source\repos\Project\ReverseStringOrNumber\ReverseStringOrNumber\obj\Debug\net8.0\ReverseStringOrNumber.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Project\ReverseStringOrNumber\ReverseStringOrNumber\obj\Debug\net8.0\ref\ReverseStringOrNumber.dll
