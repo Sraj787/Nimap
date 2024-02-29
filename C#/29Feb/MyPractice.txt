@@ -1,0 +1,70 @@
+#Select the all row or columns
+SELECT * FROM Customers
+
+#Select row of data from Id
+Select CustomerName , ContactName, City From Customers where CustomerID = 5;
+
+# Select data from City
+Select CustomerName, ContactName,City from Customers where City='Berlin';
+
+# Select data from City if In data Duplicate value are present then we use And Or Operator
+Select CustomerName, ContactName,City from Customers where City='Berlin' and CustomerId=1;
+
+# Select data from in sorted with asending or desending order
+Select CustomerName, ContactName,City from Customers order by ContactName desc;
+
+# Select data from in sorted with asending or desending order
+Select CustomerName, ContactName,City from Customers order by ContactName asc;
+
+# Select data from in sorted with asending or desending order to set the Name of the columns using as keyword
+Select CustomerName as Name, ContactName as Cname,City as city from Customers order by ContactName asc;
+
+# Select data from in sorted with asending or desending order to set the Name of the columns using as keyword
+Select CustomerName as Name, ContactName as Cname,City as city from Customers order by ContactName asc;
+
+#using Wild card Keyword to find the record in database
+select CustomerName from Customers where CustomerName like 's%' #Start with  s all dataset show
+
+#using Wild card Keyword to find the record in database
+select CustomerName from Customers where CustomerName like '%s' #end with  s all dataset show
+
+#Runtime Creating a column For discount
+select ProductName,Unit,Price,(Price-20) as discount from Products;
+
+#Using the Cndition to find the Column 
+SELECT ProductName,CategoryId,Price,
+(case
+when Price > 10 and Price < 15
+then 'Medium Price'
+when Price > 15 
+then 'High Price'
+else 'Low Price'
+end) as PriceLevel
+from Products;
+
+#Show two tables 
+select * from [dto].[Orders]
+go
+select * from [dto].[Products]
+
+#Select two tables  or marge
+select * from [dto].[Orders]
+union all
+select * from [dto].[Products]
+
+#Select two tables with marge table or only unique value shows 
+select * from [dto].[Orders]
+union
+select * from [dto].[Products]
+
+#Performing the Inner Join 
+select * from Orders
+inner join Customers on Customers.CustomerID = Orders.CustomerID;
+
+#Performing the Left Join 
+select * from Products
+left join OrderDetails on Products.ProductID = OrderDetails.ProductID;
+
+#Performing the Inner Join 
+select * from Products
+right join OrderDetails on Products.ProductID = OrderDetails.ProductID;
