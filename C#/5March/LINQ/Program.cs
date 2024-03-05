@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 
 namespace DataAnnotations
@@ -11,27 +12,75 @@ namespace DataAnnotations
         static void Main(string[] args)
         {
             var context = new PlutoContext();
-
-            //LINQ Syntax
+            //Restriction
             var query =
                 from c in context.Courses
-                where c.Name.Contains("c#")
-                orderby c.Name
+                where c.Level == 1 && c.Author.Id == 1
                 select c;
+
+            //ordering
+            var query =
+                from c in context.Courses
+                where c.Author.Id == 1
+                orderby c.Level descending, c.Name
+                select c;
+
+            //Projection
+            var query =
+                from c in context.Courses
+                where c.Author.Id == 1
+                orderby c.Level descending, c.Name
+                select new
+                {
+                    Name = c.Name,
+                    Author = c.Author,
+                };
+
+            //Grouping
+            var query =
+                from c in context.Courses
+                group c by c.Level
+                into g
+                select g;
+
             foreach (var c in query)
             {
-                Console.WriteLine(c.Name);
+                Console.WriteLine("{0} {1}", c.Key, c.Count()
+                    );
+
             }
 
-            //Extension methods
-            var courses = context.Courses
-                .Where(c => c.Name.Contains("C#"))
-                .OrderBy(c => c.Name);
+            //Joins
+            var query =
+                from c in context.Courses
+                join a in context.Authors on c.AuthorId equals a.Id
+                select new { CourseName = c.Name, AuthorName = c.Author.Name };
 
-            foreach(var c  in courses)
+            var query =
+                 from a in context.Authors
+                 join c in context.Courses on a.Id equals c.AuthorId into g
+                 select new
+                 {
+                     AuthorName = a.Name,
+                     Courses = g.Count()
+                 };
+
+            foreach (var c in query)
             {
-                Console.WriteLine(c.Name);
+                Console.WriteLine("{0} {1}", c.AuthorName, c.Courses);
             }
+
+            //Cross Join
+            var query =
+                from a in context.Authors
+                from b in context.Courses
+                select new { AuthorName = a.Name, CourseName = b.Name };
+
+            foreach (var c in query)
+            {
+                Console.WriteLine($"{c.AuthorName} - {c.CourseName}");
+            }
+
 
         }
     }
