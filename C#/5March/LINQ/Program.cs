@@ -1,4 +1,5 @@
 ﻿using System;
+using System.CodeDom;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -12,76 +13,75 @@ namespace DataAnnotations
         static void Main(string[] args)
         {
             var context = new PlutoContext();
-            //Restriction
-            var query =
-                from c in context.Courses
-                where c.Level == 1 && c.Author.Id == 1
-                select c;
 
-            //ordering
-            var query =
-                from c in context.Courses
-                where c.Author.Id == 1
-                orderby c.Level descending, c.Name
-                select c;
+              var tags = context.Courses
+                  .Where(c => c.Level == 1)
+                  .OrderByDescending(c => c.Name)
+                  .ThenByDescending(c => c.Level)
+                  .SelectMany(c => c.Tags);
 
-            //Projection
-            var query =
-                from c in context.Courses
-                where c.Author.Id == 1
-                orderby c.Level descending, c.Name
-                select new
-                {
-                    Name = c.Name,
-                    Author = c.Author,
-                };
+              foreach (var t in tags)
+              { 
+                      Console.WriteLine(t.Name);
+              }
+
+            //Set Operation
+              var tags = context.Courses
+                .Where(c => c.Level == 1)
+                .OrderByDescending(c => c.Name)
+                .ThenByDescending(c => c.Level)
+                .SelectMany(c => c.Tags)
+                .Distinct();
+
+              foreach (var t in tags)
+              {
+                  Console.WriteLine(t.Name);
+              }
 
             //Grouping
-            var query =
-                from c in context.Courses
-                group c by c.Level
-                into g
-                select g;
+              var groups = context.Courses.GroupBy(c => c.Level);
 
-            foreach (var c in query)
-            {
-                Console.WriteLine("{0} {1}", c.Key, c.Count()
-                    );
+              foreach (var t in groups)
+              {
+                  Console.WriteLine("Key: "+ t.Key);
+                  foreach(var c in t)
+                  {
+                      Console.WriteLine("\t" +c.Name);
+                  }
+              }
 
-            }
+            //Joining,
+            //Inne Join
+              var joins = context.Courses.Join(context.Authors,
+                  c => c.AuthorId,
+                  a => a.Id,
+                  (Course, Author) => new
+                      {
+                      CourseName = Course.Name,
+                      AuthorName = Author.Name
+                      });
+            //GRoup JOIN
+             var join1 = context.Courses.GroupJoin(context.Courses,
+                 a=>a.Id,
+                 c=>c.AuthorId,
+                 (author , course) => new
+             {
+                 Author = author ,
+                 Course = course
 
-            //Joins
-            var query =
-                from c in context.Courses
-                join a in context.Authors on c.AuthorId equals a.Id
-                select new { CourseName = c.Name, AuthorName = c.Author.Name };
+             }
+             );
 
-            var query =
-                 from a in context.Authors
-                 join c in context.Courses on a.Id equals c.AuthorId into g
-                 select new
-                 {
-                     AuthorName = a.Name,
-                     Courses = g.Count()
-                 };
-
-            foreach (var c in query)
-            {
-                Console.WriteLine("{0} {1}", c.AuthorName, c.Courses);
-            }
-
-            //Cross Join
-            var query =
-                from a in context.Authors
-                from b in context.Courses
-                select new { AuthorName = a.Name, CourseName = b.Name };
-
-            foreach (var c in query)
-            {
-                Console.WriteLine($"{c.AuthorName} - {c.CourseName}");
-            }
+            //Cross Join 
+            var crossJoin = context.Authors.
+                SelectMany(a => context.Courses,
+                (authors, course) => new {
+                 AuthorName = authors.Name,
+                 CourseName = course.Name,
+            });
 
 
+           
         }
     }
 }
