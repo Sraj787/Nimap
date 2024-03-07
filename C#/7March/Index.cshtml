@@ -1,0 +1,33 @@
+﻿@model IEnumerable<ProboVideo.Models.Movie>
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+           
+            <th>Name</th>
+            <th>Discription</th>
+            <th>AddDate</th>
+            <th>ReleaseDate</th>
+            <!-- Add more columns as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var movie in Model)
+        {
+            <tr>
+                
+                <td>@Html.ActionLink(movie.Title, "Edit", "Movie", new { id = movie.Id }, null)</td>
+                <td>@movie.Description</td>
+                <td>@movie.AddedDate.ToString("dd/MM/yyyy")</td>
+                <td>@movie.ReleaseDate.ToString("dd/MM/yyyy")</td>
+
+            </tr>
+        }
+    </tbody>
+</table>
