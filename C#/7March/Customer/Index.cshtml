@@ -1,0 +1,35 @@
+﻿@model  IEnumerable<ProboVideo.Models.Customer>
+
+@{
+    ViewBag.Title = "IndexView";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Customer Details</h2>
+<table class="table">
+    <thead>
+        <tr>
+            
+            <th>Name</th>
+            <th>Membertype</th>
+           @* <th>BirthDate</th>*@
+            <!-- Add more columns as needed -->
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var customer in Model)
+        {
+            @* <tr>
+                <td>@customer.Id</td>
+                <td>@customer.Name</td>
+                <td>@customer.memberShipType.Name</td>
+                <td>@customer.BirthDate.ToString("dd/MM/yyyy")</td>
+                </tr>*@
+        <tr>
+            <td>@Html.ActionLink(customer.Name,"Edit", "Customer", new { id = customer.Id }, null)</td>
+            <td>@customer.memberShipType.Name</td>
+            
+        </tr>
+        }
+        </tbody>
+    </table>

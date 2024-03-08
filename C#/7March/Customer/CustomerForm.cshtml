@@ -1,0 +1,57 @@
+﻿@model ProboVideo.ViewModels.NewCustomerViewModel
+@{
+    ViewBag.Title = "CustomerForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>New</h2>
+<style>
+    /* Define a style for validation errors */
+    .field-validation-error {
+        color: red;
+    }
+    .input-validation-error {
+        border: 2px solid red;
+    }
+    .container1{
+        width:100%;
+        height:70%;
+        padding-left:40%;
+    }
+</style>
+
+@using (Html.BeginForm("Save", "Customer"))
+{   
+    <div class="container1">
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Name)
+        @Html.TextBoxFor(m => m.Customer.Name, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m=>m.Customer.Name)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.Address)
+        @Html.TextBoxFor(m => m.Customer.Address, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.BirthDate)
+        @Html.TextBoxFor(m => m.Customer.BirthDate, "{0:d MMM yyyy}", new { @class = "form-control", @Value = "" })
+        @Html.ValidationMessageFor(m=>m.Customer.BirthDate) 
+    </div>
+ 
+    <div class="form-group">
+        @Html.LabelFor(m => m.Customer.memberShipType)
+        @Html.DropDownListFor(m => m.Customer.MemberShipTypeId, new SelectList(Model.MemberShipTypes, "Id", "Name"), "Select MemberShipType", new { @class = "form-control" })
+    </div>
+ <br />
+    <div class="check-box">
+        <label>
+            @Html.CheckBoxFor(m => m.Customer.IsSubscribedToNowletter) Subscribed To  NewsLetter?
+        </label>
+    </div>
+    <br />
+    @Html.HiddenFor(m=>m.Customer.Id)
+    <button type="submit" class="btn btn-primary">Submit</button>
+
+    </div>
+
+}

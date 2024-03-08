@@ -1,0 +1,16 @@
+﻿@model ProboVideo.Models.Customer
+@{
+    ViewBag.Title = "Details";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>@Model.Name</h2>
+<br />
+<h3>MemberShip:</h3><h5>@Model.memberShipType.Name</h5>
+
+
+<h3>BirthDay:</h3><h5>@Model.BirthDate.ToString("dd/MM/yyyy")</h5>
+
+
+
+
