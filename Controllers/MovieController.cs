@@ -64,9 +64,16 @@ namespace ProboVideo.Controllers
         }
         public ActionResult New()
         {
-           return View("Save","Movie");
+            var moviegenre = _context.Genres.ToList();
+
+            var viewModel = new RandomModel
+            {
+                Movie = new Movie(),
+                Genres = moviegenre
+            };
+           return View("MovieForm",viewModel);
         }
-      /*  public ActionResult Edit(int id)
+        public ActionResult Edit(int id)
         {
             var movies = _context.Movies.SingleOrDefault(c => c.Id == id);
             if (movies == null)
@@ -75,10 +82,10 @@ namespace ProboVideo.Controllers
             }
             var viewModel = new RandomModel
             {
-                Movie = new  Movie(),
-                Genres  = genre
+                Movie = new Movie(),
+                Genres = _context.Genres.ToList()
             };
             return View("MovieForm", viewModel);
-        }*/
+        }
     }
 }
