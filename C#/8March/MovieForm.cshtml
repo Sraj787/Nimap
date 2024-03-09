@@ -1,0 +1,56 @@
+﻿@model ProboVideo.ViewModels.RandomModel
+@{
+    ViewBag.Title = "MovieForm";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>MovieForm</h2>
+<style>
+    /* Define a style for validation errors */
+    .field-validation-error {
+        color: red;
+    }
+
+    .input-validation-error {
+        border: 2px solid red;
+    }
+
+    .container1 {
+        width: 100%;
+        height: 70%;
+        padding-left: 40%;
+    }
+</style>
+
+@using (Html.BeginForm("Save", "Movie"))
+{
+    <div class="container1">
+    <div class="form-group">
+        @Html.LabelFor(m => m.Movie.Title)
+        @Html.TextBoxFor(m => m.Movie.Title, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.Movie.Title)
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Movie.Description)
+        @Html.TextBoxFor(m => m.Movie.Description, new { @class = "form-control" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Movie.AddedDate)
+        @Html.TextBoxFor(m => m.Movie.AddedDate, "{0:d MMM yyyy}", new { @class = "form-control", @Value = "" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Movie.ReleaseDate)
+        @Html.TextBoxFor(m => m.Movie.ReleaseDate, "{0:d MMM yyyy}", new { @class = "form-control", @Value = "" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Movie.NumberInStock)
+        @Html.TextBoxFor(m => m.Movie.NumberInStock, new { @class = "form-control", @Value = "" })
+    </div>
+    <div class="form-group">
+        @Html.LabelFor(m => m.Movie.genre)
+        @Html.DropDownListFor(m => m.Movie.genreId, new SelectList(Model.Genres, "Id", "Name"), "Select MemberShipType", new { @class = "form-control" })
+    </div>
+    <br />
+    <button class="btn btn-primary" value="submit">Save</button>
+    </div>
+}
