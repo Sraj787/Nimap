@@ -1,0 +1,149 @@
+--Using In Keyword in sql
+SELECT * FROM Customers 
+WHERE Country IN ('mexico','landon','germany')
+
+--Using Not In Keyword in sql
+SELECT * FROM Customers 
+WHERE Country IN ('mexico','landon','germany')--all this value are not display in data
+
+--Exercise 1:
+SELECT * FROM Products
+WHERE Price IN (22,19,15)
+
+--Using The Between keyword
+
+--Using Condition To Operator First
+SELECT * FROM OrderDetails
+WHERE Quantity>= 15 AND Quantity<=60
+
+--Using Between Keyword
+SELECT * FROM OrderDetails
+WHERE Quantity BETWEEN 15 AND 60
+
+--Exercise 2:
+SELECT * FROM Orders
+WHERE OrderDate BETWEEN 1990-01-01 AND 2000-01-01
+
+--using like keyword 
+SELECT * FROM Employees
+WHERE LastName LIKE 'b%' --Only show the lastname start with b letter
+
+SELECT * FROM Employees
+WHERE LastName LIKE '%u%'
+
+SELECT * FROM Employees
+WHERE LastName LIKE '%r'--LastName End With r
+
+SELECT * FROM Employees
+WHERE LastName LIKE '_____r'
+
+SELECT * FROM Employees
+WHERE LastName LIKE 'f____r'
+--% any number of characters
+-- _single Character
+
+Exercise:
+1> 
+SELECT * FROM Customers
+WHERE PostalCode LIKE '%9' --PostalCode End With 9
+
+2>
+SELECT * FROM Customers
+WHERE Country LIKE '%ma%' OR 
+      Country LIKE '%x%'
+
+3>find lastname fuller or peacock
+SELECT * FROM Employees
+WHERE LastName='fuller' OR LastName='peacock'
+
+4>find the last Name End with er or k
+SELECT * FROM Employees
+WHERE LastName Like'%er' OR 
+    LastName Like'%k'
+
+The ORDER BY Clause:
+Exercise1:
+SELECT * ,Unit * Price AS TotalPrice FROM Products
+WHERE CategoryID = 2
+ORDER BY ProductName DESC
+
+INNER JOIN:Product Table Join With Categories Table
+Example:
+SELECT ProductID,ProductName,CategoryName FROM Products
+INNER JOIN Categories 
+ON Products.CategoryID = Categories.CategoryID
+
+--Getting error to get CategoryID Beacuse sql doesn't know to get the which table value
+SELECT ProductID,ProductName,CategoryID,CategoryName FROM Products 
+INNER JOIN Categories 
+ON Products.CategoryID = Categories.CategoryID
+Solution:
+SELECT ProductID,ProductName,Products.CategoryID,CategoryName FROM Products 
+INNER JOIN Categories 
+ON Products.CategoryID = Categories.CategoryID
+
+Exercise:
+SELECT OrderDate,ShipperName FROM Orders
+INNER JOIN Shippers
+ON Orders.ShipperID = Shippers.ShipperID
+
+2>
+SELECT * FROM OrderItems oi
+Join OrderItemNotes oin
+on oi.OrderId = oin.OrderId AND oi.ProductId =oin.ProductId
+
+Outer JOIN:
+
+1>Left Join
+SELECT  ProductID,Products.ProductName,Categories.CategoryID,Categories.CategoryName
+FROM Products
+LEFT OUTER JOIN Categories ON 
+   Products.CategoryID = Categories.CategoryID
+
+2>Right Join
+SELECT  ProductID,Products.ProductName,Categories.CategoryID,Categories.CategoryName
+FROM Products
+LEFT OUTER JOIN Categories ON 
+   Products.CategoryID = Categories.CategoryID
+ORDER BY ProductID
+
+3>Mutiple Table Left Join
+SELECT item,o.customer_id,c.first_name,s.status
+FROM Orders o
+LEFT JOIN Customers c  On 
+o.customer_id = c.customer_id
+LEFT JOIN Shippings s On
+c.customer_id = s.customer
+
+Cross Join
+
+SELECT OrderID,Quantity,c.FirstName
+FROM OrderItems o
+CROSS JOIN Customers c
+ORDER BY c.FirstName
+
+
+Inserting the Data
+CustomerTable:
+Insert Into Customers(CustomerId,FirstName,LastName,BirthDate)
+Values(9,'Sarthak','Rajbhar','2000-04-02')
+
+
+Update Data From Table:
+Update Customers
+Set FirstName = 'Prathmesh',BirthDate='2001-07-22'
+where CustomerId = 15
+
+Aggregate Funtions:
+Example1:
+SELECT MAX(Price) as Highest,
+MIN(Price) as Lowest,
+AVG(Price) as Average
+From Products
+
+Example2:
+MIN(Price) as Lowest,
+AVG(Price) as Average,
+SUM(Price) as Total,
+Count(Price) as TotalProduct
+From Products
