@@ -1,0 +1,36 @@
+--Creating stored Procedure
+Create procedure get_invoices_with_balances as
+Begin
+Select * from invoices
+where invoice_total - payment_total > 0;
+End
+
+
+--Using parameter
+
+CREATE PROCEDURE get_invoices_by_client
+    @client_id INT
+AS
+BEGIN
+    SELECT * FROM invoices WHERE client_id = @client_id;
+END;
+
+EXEC get_invoices_by_client @client_id = 2;
+
+
+
+
+Create PROCEDURE get_payments
+    @client_id INT = NULL,
+    @payment_method_id TINYINT = NULL
+AS
+BEGIN
+    SELECT * 
+    FROM payments p
+    WHERE 
+        (p.client_id = ISNULL(@client_id, p.client_id))
+        AND 
+        (p.payment_method = ISNULL(@payment_method_id, p.payment_method))        
+END;	
+
+EXEC get_payments @client_id = 5, @payment_method_id = null;
