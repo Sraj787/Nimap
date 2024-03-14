@@ -1,0 +1,14 @@
+C:\Users\Nimap\source\repos\Project\PrimeNumber4\PrimeNumber4\bin\Debug\net8.0\PrimeNumber4.exe
+C:\Users\Nimap\source\repos\Project\PrimeNumber4\PrimeNumber4\bin\Debug\net8.0\PrimeNumber4.deps.json
+C:\Users\Nimap\source\repos\Project\PrimeNumber4\PrimeNumber4\bin\Debug\net8.0\PrimeNumber4.runtimeconfig.json
+C:\Users\Nimap\source\repos\Project\PrimeNumber4\PrimeNumber4\bin\Debug\net8.0\PrimeNumber4.dll
+C:\Users\Nimap\source\repos\Project\PrimeNumber4\PrimeNumber4\bin\Debug\net8.0\PrimeNumber4.pdb
+C:\Users\Nimap\source\repos\Project\PrimeNumber4\PrimeNumber4\obj\Debug\net8.0\PrimeNumber4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nimap\source\repos\Project\PrimeNumber4\PrimeNumber4\obj\Debug\net8.0\PrimeNumber4.AssemblyInfoInputs.cache
+C:\Users\Nimap\source\repos\Project\PrimeNumber4\PrimeNumber4\obj\Debug\net8.0\PrimeNumber4.AssemblyInfo.cs
+C:\Users\Nimap\source\repos\Project\PrimeNumber4\PrimeNumber4\obj\Debug\net8.0\PrimeNumber4.csproj.CoreCompileInputs.cache
+C:\Users\Nimap\source\repos\Project\PrimeNumber4\PrimeNumber4\obj\Debug\net8.0\PrimeNumber4.dll
+C:\Users\Nimap\source\repos\Project\PrimeNumber4\PrimeNumber4\obj\Debug\net8.0\refint\PrimeNumber4.dll
+C:\Users\Nimap\source\repos\Project\PrimeNumber4\PrimeNumber4\obj\Debug\net8.0\PrimeNumber4.pdb
+C:\Users\Nimap\source\repos\Project\PrimeNumber4\PrimeNumber4\obj\Debug\net8.0\PrimeNumber4.genruntimeconfig.cache
+C:\Users\Nimap\source\repos\Project\PrimeNumber4\PrimeNumber4\obj\Debug\net8.0\ref\PrimeNumber4.dll
